@@ -1,0 +1,4 @@
+OBJECT_BASE 2990360.btg
+OBJECT LFYS.btg
+OBJECT_SHARED Models/Airport/windsock.xml 2.006002 42.447304 1312.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.012134 42.446979 1321.8 0.00

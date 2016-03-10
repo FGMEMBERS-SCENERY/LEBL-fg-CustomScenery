@@ -1,0 +1,12 @@
+version:1
+path:Airports/K/S/J
+f:KSJC.twr.xml:bd34c8c70a8e35df3aaa9f0972fb4254ae9dcbfc:202
+f:KSJN.threshold.xml:e04a811d81323fc0ad788349a25f503365dc659b:918
+f:KSJT.ils.xml:54194e88a1e69753f5bffccf7ccb566fd2032e95:284
+f:KSJC.threshold.xml:5c177df21c4187a36f9c9182298178d14bcd40a8:1376
+f:KSJC.groundnet.xml:8663967a38653483647df7a6a7141353c2cb4674:14793
+f:KSJT.threshold.xml:203550acf5f4bb71543718cdc9f45689babfc525:1336
+f:KSJX.groundnet.xml:57d9f4e42c795c22de9e704601804c479585f02f:590
+f:KSJC.ils.xml:e7ef739d7f5ee8242888d6a73c17f3232f49d360:472
+f:KSJT.groundnet.xml:7697a9ae37633070e374bbde8552c34fd49286f6:17022
+f:KSJX.threshold.xml:2833bdff249f7e2ff796a675e43bc250a3285c97:1332
